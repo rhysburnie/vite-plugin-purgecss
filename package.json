@@ -50,7 +50,7 @@
 	},
 	"license": "MIT",
 	"peerDependencies": {
-		"vite": "^3 || ^4"
+		"vite": "^3 || ^4 || ^5"
 	},
 	"devDependencies": {
 		"@semantic-release/git": "^10.0.1",
